@@ -1,4 +1,0 @@
-name: RagCodeAnalysisToolkit
-description: Toolkit for analyzing codebase using a remote RAG system.
-toolkit_class_name: RagCodeAnalysisToolkit
-toolkit_file_name: rag_toolkit.py
